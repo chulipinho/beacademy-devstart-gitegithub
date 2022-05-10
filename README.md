@@ -49,7 +49,7 @@ git config --global user.email email@exemplo.com
 | `git branch <nome do branch>` | Cria um branch com um nome específico |
 | `git checkout <nome do branch>` | Muda a HEAD para o branch designado |
 | `git checkout -b <nome do branch>` | Cria um branch e automaticamente muda a HEAD |
-| `git checkout -b <nome do branch> <hash do commit>` | Cria um branch em um commit específico |
+| `git checkout -b <nome> <hash>` | Cria um branch em um commit específico baseado no hash passado como parâmetro |
 
 ## Stash
 
@@ -59,7 +59,7 @@ git config --global user.email email@exemplo.com
 | `git stash list` | Lista todos os estados armazenados no stash |
 | `git stash pop` | Retorna ao estado mais recente armazenado no stash e remove da lista de stashs |
 | `git stash apply` | Similar ao comando pop, mas não remove o estado da lista |
-| `git stash@{numero do stash}` | Retorna ao stash especificado na lista |
+| `git stash@{numero}` | Retorna ao stash especificado dado o número baseado na sua posição na lista |
 | `git stash drop` | Remove um stash específico da lista |
 | `git stash clear` | Limpa o histórico de stashs |
 
