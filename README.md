@@ -10,7 +10,9 @@ Projeto criado pelos alunos do programa DevStart quanto a utilização do Git e 
 - [Comandos Básicos](#comandos-basicos)
 - [Versionamento](#versionamento)
 - [Stash](#stash)
-- [Autor](#autor)## Configuração inicial
+- [Autor](#autor)
+
+## Configuração inicial
 
 Para utilizar o git pela primeira vez, é necessário configurar seu nome de usuário e email para que os commits possam ser identificados.
 
