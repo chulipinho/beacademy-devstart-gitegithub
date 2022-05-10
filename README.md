@@ -6,8 +6,8 @@ Projeto criado pelos alunos do programa DevStart quanto a utilização do Git e 
 
 ## Índice
 
-- [Configuração inicial](#configuracao-inicial)
-- [Comandos Básicos](#comandos-basicos)
+- [Configuração inicial](#configuração-inicial)
+- [Comandos Básicos](#comandos-básicos)
 - [Versionamento](#versionamento)
 - [Stash](#stash)
 - [Autor](#autor)
