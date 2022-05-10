@@ -46,7 +46,7 @@ git config --global user.email email@exemplo.com
 | `git log `| Mostra todos os commits realizados no branch atual e suas informações |
 | `git log --oneline`| Mostra todos os commits realizados no branch atual de forma resumida |
 | `git branch` | Mostra os branchs existentes |
-| `git branch <nome do branch>` | Cria um branch com um nome específico |
+| `git branch <nome>` | Cria um branch com um nome específico |
 | `git checkout <nome do branch>` | Muda a HEAD para o branch designado |
 | `git checkout -b <nome do branch>` | Cria um branch e automaticamente muda a HEAD |
 | `git checkout -b <nome> <hash>` | Cria um branch em um commit específico baseado no hash passado como parâmetro |
