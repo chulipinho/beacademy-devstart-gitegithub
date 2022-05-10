@@ -55,7 +55,7 @@ git config --global user.email email@exemplo.com
 
 | Comando          | Descrição                           |
 | :--------------- | :---------------------------------- |
-| `git stash` | Grava o estado atual da pasta na memória do sistema e remove todas as alterações realizadas desde o ultimo commit na pasta atual |
+| `git stash` | Grava o estado atual da pasta no stash e remove as alterações do branch |
 | `git stash list` | Lista todos os estados armazenados no stash |
 | `git stash pop` | Retorna ao estado mais recente armazenado no stash e remove da lista de stashs |
 | `git stash apply` | Similar ao comando pop, mas não remove o estado da lista |
